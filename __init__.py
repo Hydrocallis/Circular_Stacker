@@ -1,10 +1,10 @@
 bl_info = {
     "name": "Circular Stacker",
+    "version": (1, 0, 0),
     "blender": (4, 2, 0),  
     "category": "Object",
     "description": "Distribute selected objects in a circular (donut) pattern",
     "author": "KSYN",  
-    "version": (1, 0 ,0),
     "support": "COMMUNITY",
 }
 
