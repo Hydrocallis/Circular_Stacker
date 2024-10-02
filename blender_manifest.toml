@@ -1,0 +1,25 @@
+# Circular Stacker extension manifest file
+schema_version = "1.0.0"
+id = "circular_stacker"
+version = "1.0.0"
+name = "Circular Stacker"
+tagline = "Distribute selected objects in a circular (donut) pattern"
+maintainer = "KSYN"
+type = "add-on"
+
+# Tags from the official Blender list
+tags = ["Object"]
+
+blender_version_min = "4.2.0"
+
+# License (you may want to specify the exact license)
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  "/.git/",
+  "/*.zip",
+]
