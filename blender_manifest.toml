@@ -11,6 +11,8 @@ type = "add-on"
 tags = ["Object"]
 
 blender_version_min = "4.2.0"
+blender_version_max = "4.2.2"
+
 
 # License (you may want to specify the exact license)
 license = [
